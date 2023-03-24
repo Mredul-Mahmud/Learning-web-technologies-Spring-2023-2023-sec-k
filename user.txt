@@ -1,0 +1,8 @@
+xyz|xyz@gmail.com|1998-02-14|xyz 
+adbc|adbc@gmail.com|1995-12-15|adbc 
+pqrs|pqrs@gmail.com|1995-11-01|pqrs 
+abcde|abcde@gmail.com|1998-03-15|abcde 
+abcdef|abcdef@gmail.com|1990-12-11|abcde 
+pqrst|pqrst@gmail.com|1991-08-19|pqrst 
+efgh|efgh@gmail.com|1999-12-14|efgh 
+abud|abud@gmail.com|1999-11-14|abud 

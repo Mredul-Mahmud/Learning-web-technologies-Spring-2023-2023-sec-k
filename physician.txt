@@ -1,0 +1,4 @@
+artist|arist@gmail.com|1997-01-04|artist 
+defg|defg@gmail.com|1993-11-19|defg 
+aded|aded@gmail.com|2023-12-30|aded 
+dean|dean@gmail.com|1998-11-25|deanasd 
